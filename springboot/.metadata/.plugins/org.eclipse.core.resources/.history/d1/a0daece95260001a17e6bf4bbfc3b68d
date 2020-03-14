@@ -1,0 +1,5 @@
+package com.springboot.pjct.Company;
+
+public interface JSONCompanyClient {
+
+}

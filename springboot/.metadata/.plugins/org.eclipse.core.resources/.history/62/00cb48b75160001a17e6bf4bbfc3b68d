@@ -1,0 +1,5 @@
+package com.springboot.pjct.Company;
+@FeignClient(value="jcompany",url="http://localhost:8084/ipo/")
+public class JSONCompanyClient {
+
+}
